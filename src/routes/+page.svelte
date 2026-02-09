@@ -1,10 +1,8 @@
 <p>
-	I am a computer science Ph.D. student at Northeastern University, where I am advised by <a
-		href="http://enrico.bertini.io">Enrico Bertini</a
-	>. I am interested in information visualization and its applications relating to machine learning.
-	Before our lab moved to Northeastern, I was a Ph.D. student at NYU. Prior to grad school, I worked
-	as a software development engineer at Amazon Robotics and did my undergraduate studies at Notre
-	Dame.
+	I am an applied researcher at Capital One. I am interested in information visualization and its
+	applications relating to machine learning. I did my Ph.D. at NYU and Northeastern and was advised
+	by <a href="http://enrico.bertini.io">Enrico Bertini</a>. Prior to grad school, I worked as a
+	software development engineer at Amazon Robotics and did my undergraduate studies at Notre Dame.
 </p>
 
 <div>

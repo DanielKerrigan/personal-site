@@ -6,26 +6,21 @@
 </p>
 
 <section>
-	<h3>In progress</h3>
 	<div>
-		<h4>SAEfarer</h4>
-		<p>
-			<a href="http://dankerrigan.me/saefarer/">SAEfarer</a> is a visual analytics tool for exploring
-			sparse autoencoders, with a particular focus on labeled data.
-		</p>
+		<h4>SAEfarer: Exploring Text Classification Models with Sparse Autoencoders</h4>
+		<div>Daniel Kerrigan, Brian Barr, and Enrico Bertini</div>
+		<div>
+			<span class="venue">New England Mechanistic Interpretability Workshop</span>, 2025
+		</div>
+		<div>
+			<ul class="horizontal-list">
+				<li>
+					<a href="https://doi.org/10.1109/TVCG.2025.3545025">Paper</a>
+				</li>
+				<li><a href="https://github.com/DanielKerrigan/saefarer">GitHub</a></li>
+			</ul>
+		</div>
 	</div>
-
-	<div>
-		<h4>Monomoy</h4>
-		<p>
-			<a href="https://github.com/DanielKerrigan/Monomoy">Monomoy</a> is a system for helping domain
-			experts familiarize themselves with and identify unintuitive behavior in machine learning models.
-		</p>
-	</div>
-</section>
-
-<section>
-	<h3>Published</h3>
 
 	<div>
 		<h4>PDPilot: Exploring Partial Dependence Plots Through Ranking, Filtering, and Clustering</h4>
@@ -99,19 +94,6 @@
 			<ul class="horizontal-list">
 				<li><a href="https://doi.org/10.3390/mti5120073">Paper</a></li>
 				<li><a href="https://github.com/DanielKerrigan/elicitation-survey">GitHub</a></li>
-			</ul>
-		</div>
-	</div>
-
-	<div>
-		<h4>Nutrition Bytes: Visualizing Food Content</h4>
-		<div>Shuai He, Daniel Kerrigan, Ronald Metoyer</div>
-		<div><span class="venue">IEEE VIS Poster Extended Abstract</span>, 2017</div>
-		<div>
-			<ul class="horizontal-list">
-				<li><a rel="external" href="/papers/poster.pdf">Poster</a></li>
-				<li><a href="https://vimeo.com/230838162">Demo video</a></li>
-				<li><a rel="external" href="/papers/NutritionBytesFinal.pdf">Extended abstract</a></li>
 			</ul>
 		</div>
 	</div>
