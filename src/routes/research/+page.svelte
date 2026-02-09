@@ -15,7 +15,7 @@
 		<div>
 			<ul class="horizontal-list">
 				<li>
-					<a href="https://doi.org/10.1109/TVCG.2025.3545025">Paper</a>
+					<a href="https://files.dankerrigan.me/kerrigan2025saefarer.pdf">Preprint</a>
 				</li>
 				<li><a href="https://github.com/DanielKerrigan/saefarer">GitHub</a></li>
 			</ul>
